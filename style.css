@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap');
+
+
+.landing-grid{
+    display: flex;
+    background-color: rgb(27, 27, 27);
+    height: 300px;
+    justify-content: space-between;
+}
+
+.left{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-weight: 100;
+}
+
+.right{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-weight: 100;
+}
+
+     .left:hover{
+        background-color: rgb(240, 196, 94);
+        color: black;
+        font-weight: 200;
+        
+        
+     }
+
+     .date{
+        font-family: 'Roboto Mono', monospace;
+        font-size: 10px;
+        line-height: 150%;
+        color: rgb(42, 0, 250);
+       
+        max-width: 200px;
+    }
+
+.topics-grid{
+    display: flex;
+	flex-wrap: wrap-reverse;
+    background-color: rgb(27, 27, 27);
+	min-height: 40px;
+    
+    
+   
+}
+
+.project1{
+    background-color: rgb(212, 89, 68);
+	border-bottom: 1px solid rgb(56, 56, 56);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+
+}
+
+.project2{
+    background-color: rgb(219, 204, 139);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+
+.project3{
+    background-color: rgb(187, 207, 119);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+.project4{
+    background-color: rgb(222, 150, 78);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+.project5{
+    background-color: rgb(117, 122, 230);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+.project6{
+    background-color: rgb(153, 181, 68);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+.project7{
+    background-color: rgb(201, 70, 85);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+.project8{
+    background-color: rgb(162, 212, 153);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    
+
+}
+.project9{
+    background-color: rgb(234, 213, 108);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-right: 1px solid rgb(0, 0, 0);
+	padding:10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color: rgb(52, 52, 52);
+    align-content: center;
+}
+
