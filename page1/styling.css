@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap');
 
 
+font-family: "freight-text-pro", serif;
+font-weight: 400;
+font-style: normal;
+
 body{
     margin: 100px;
     background-color: rgb(235, 239, 206);
@@ -19,7 +23,9 @@ body{
 }
 
 .heading{
-    font-family: 'Roboto Mono', monospace;
+    font-family: "freight-text-pro", serif;
+font-weight: 400;
+font-style: normal;
     font-size: 12px;
     line-height: 150%;
     color: rgb(19, 19, 19);
@@ -38,7 +44,9 @@ body{
 }
 
 .date{
-    font-family: 'Roboto Mono', monospace;
+    font-family: "freight-text-pro", serif;
+font-weight: 400;
+font-style: normal;
     font-size: 10px;
     line-height: 150%;
     color: rgb(42, 0, 250);
@@ -47,7 +55,9 @@ body{
 }
 
 .body{
-    font-family: 'Roboto Mono', monospace;
+    font-family: "freight-text-pro", serif;
+font-weight: 400;
+font-style: normal;
     font-size: 10px;
     line-height: 150%;
     color: rgb(19, 19, 19);
